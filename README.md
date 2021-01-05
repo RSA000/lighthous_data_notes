@@ -12,7 +12,6 @@ currently this README only has example of changing text size in markdown but I'm
 ## Table of contents
 * week 1
     * day 1
-        * item 1
-        * item 2
-        * item 3
-        
+        * [Week 1](/Week_1)
+            * [Day 1](/Week_1/Day_1)
+
