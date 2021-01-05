@@ -8,3 +8,11 @@
 currently this README only has example of changing text size in markdown but I'm sure more will be added soon - 
 [Sully](https://github.com/RSA000) :D
 
+
+## Table of contents
+* week 1
+    * day 1
+        * item 1
+        * item 2
+        * item 3
+        
